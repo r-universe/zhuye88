@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "isokernel"]
+	path = isokernel
+	url = https://github.com/zhuye88/isokernel
+	shallow = true
+	registered = true
